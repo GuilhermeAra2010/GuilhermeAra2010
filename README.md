@@ -1,7 +1,7 @@
 - Alright, allow me to introduce myself
 - My name is Guilherme Araújo, an silly beginner Developer
 - my goal is get better using html, CSS and Javascript
-- I have an age of.... no, i´m not gonna reveal it too soon
+- I have X years
 - pronouns: i forgot💀
 - Currently studying on high school (or was studying)
 - I don´t have more ideas about to put, that´s all i want to say about me (●'◡'●)
