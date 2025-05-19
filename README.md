@@ -1,7 +1,6 @@
 - Alright, allow me to introduce myself
-- My name is Guilherme Araújo, an silly beginner Developer
+- My name is Willian Araujo, an silly beginner Developer
 - my goal is get better using html, CSS and Javascript
 - I have X years
-- pronouns: he/they
 - Currently studying on high school (or was studying)
 - I don´t have more ideas about to put, that´s all i want to say about me (●'◡'●)
