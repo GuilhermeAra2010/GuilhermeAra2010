@@ -2,5 +2,4 @@
 - My name is Willian Araujo, an silly beginner Developer
 - my goal is get better using html, CSS and Javascript
 - I have X years
-- Currently studying on high school (or was studying)
 - I don´t have more ideas about to put, that´s all i want to say about me (●'◡'●)
